@@ -1,16 +1,16 @@
-Whosever room this is should be ashamed!
-His underwear is hanging on the lamp.
-His raincoat is there in the overstuffed chair,
-And the chair is becoming quite mucky and damp.
-His workbook is wedged in the window,
-His sweater's been thrown on the floor.
-His scarf and one ski are beneath the TV,
-And his pants have been carelessly hung on the door.
-His books are all jammed in the closet,
-His vest has been left in the hall.
-A lizard named Ed is asleep in his bed,
-And his smelly old sock has been stuck to the wall.
-Whosever room this is should be ashamed!
+Whosever room this is should be <adjective>!
+His <noun> is hanging on the lamp.
+His raincoat is there in the <verb> chair,
+And the chair is becoming quite <adjective>  and damp.
+His <noun> is wedged in the window,
+His sweater's been thrown on the <noun>.
+His <noun> and one ski are beneath the TV,
+And his pants have been carelessly <adjective> on the door.
+His books are all jammed in the <noun>,
+His <noun> has been left in the hall.
+A <noun> named Ed is asleep in his bed,
+And his smelly old sock has been <verb> to the wall.
+Whosever room this is should be <adjective>!
 Donald or Robert or Willie or--
-Huh? You say it's mine? Oh, dear,
-I knew it looked familiar!
+Huh? You say it's <noun>? Oh, dear,
+I knew it looked <adjective>!
